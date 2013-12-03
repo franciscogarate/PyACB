@@ -17,7 +17,7 @@ for linea in file_source:
 for x in players[2:]:
     data = acb.stats(x)
     time.sleep(0.3)
-    out = csv.writer(open("players3.csv","a"), delimiter=',')
+    out = csv.writer(open("players3.csv","a"), delimiter=';')
     out.writerow(data)
 #    print data
     

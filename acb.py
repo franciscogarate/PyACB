@@ -1,3 +1,4 @@
+# version 0.0.2
 import urllib2
 def stats(id):
     a = b = c = d = e = 0
