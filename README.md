@@ -7,20 +7,18 @@
 * [Introduction]
 A python library for life sport calculations. Simple, powerful and easy-to-use.
 
-* [Table of Contents](#table-contents)
-
-#<a name="introductions"></a>Introduction
-#<a name="quick-start"></a>Quick Start
-- Examples
-- Reading data files
-- Data objects
-- Potential uses: Solvency II and sport Industrialization
-- Introduction
-Why Python?
-- Installation
+<h2>table-contents</h2>
 
 
 * [Introduction](#introduction)
+* Examples
+* Reading data files
+* Data objects
+* Potential uses: Solvency II and sport Industrialization
+* Installation
+
+#<a name="introductions"></a>Introduction
+-----------------------------------------
 
 **pyacb** is an open library written in python for life and annuity insurance contracts, based on commonly used methodology among actuaries (International sport Notation).
 
