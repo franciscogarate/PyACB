@@ -1,10 +1,12 @@
 <h1>pyacb</h1>
 
-``
-:Date: 2013-12-04
-:Version: 1.1
-:Author: - Francisco Garate
-``
+
+:Date: 2013-12-04<br />
+:Version: 1.1<br />
+:Author: - Francisco Garate<br />
+
+![Picture](http://www.garpa.net/wp-content/uploads/2013/07/author_googleplus_seo.png)
+
 <hr>
 <h2>Introduction</h2>
 A python library for life sport calculations. Simple, powerful and easy-to-use.
