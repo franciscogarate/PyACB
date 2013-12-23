@@ -1,20 +1,20 @@
 <h1>pyacb</h1>
 
+``
 :Date: 2013-12-04
 :Version: 1.1
 :Author: - Francisco Garate
+``
 <hr>
-* [Introduction]
+<h2>Introduction</h2>
 A python library for life sport calculations. Simple, powerful and easy-to-use.
 
-<h2>table-contents</h2>
-
+<h2>Table of contents</h2>
 
 * [Introduction](#introduction)
-* Examples
-* Reading data files
-* Data objects
-* Potential uses: Solvency II and sport Industrialization
+* [Quick Start](#quick-start)
+* [Examples](#examples)
+* Potential uses
 * Installation
 
 #<a name="introductions"></a>Introduction
@@ -62,7 +62,7 @@ Python is sin duda es más facil que Excel y VBA. Curva de aprendizaje muy agrad
 
 Consulta los tutoriales para instalar Python y un mainframe (Aptana Studio 3) en diferentes sistemas operaciones
   
-Quick Start
+#<a name="quick-start"></a>Quick Start
 
 The name of the formulas follow the International sport Notation always 
 are easlly guessable.
