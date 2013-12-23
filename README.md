@@ -18,7 +18,7 @@ A python library for life sport calculations. Simple, powerful and easy-to-use.
 * Installation
 
 #<a name="introductions"></a>Introduction
------------------------------------------
+
 
 **pyacb** is an open library written in python for life and annuity insurance contracts, based on commonly used methodology among actuaries (International sport Notation).
 
@@ -33,7 +33,7 @@ This library is ideal not only for academic purposes, but also for professional 
 It is distributed as a single file module (lifecontingencies.py) and has no dependencies other than the Python Standard Library.
 
 Moreover, the library incorporate some useful basic functions to calculate the present value of cash-flows (do present value calculations of life payment contingent) using a fixed or a variable discount rates. Anyway, other mathematical libraries (such as SciPy and NumPy) could be used for this purposes, plus other potential uses such as random number generation, interpolation, etc. Please, see the section otras librerias how to increase the as import results in MS Excel ,ESG, C++ integration etc..[see link libraries]
-See :ref:`my-reference-label`
+See :ref:
 
 Additionally, the package includes several life mortality tables (mortalitytables.py), mainly extracted from academic books [see link books].
 
@@ -41,18 +41,19 @@ You can find also an example for a individual contracts, and a collective file i
 
 `` python tariff-example1.py ``
 
+
+
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. The author does not take any legal responsibility for the accuracy, completeness, or usefulness of the information herein.
 
-===========
-Why Python?
-===========
+<h2>Why Python?</h2>
+
 Because technology plays an important role in the sport profession, but actuaries are not programmers.
 
 Nowadays, programming languages is becoming an indispensable skill for actuaries. Python is a very clear, readable syntax, powerful and fast language. Easy learning, especially when you are not used to coding.
 
-"Python lets you write the code you need, quickly. And, thanks to a highly optimized byte compiler and support libraries, Python code runs more than fast enough for most applications.
+"Python lets you write the code you need, quickly. And, thanks to a highly optimized byte compiler and support libraries, Python code runs more than fast enough for most applications."
 http://www.python.org/about/
 
 The exact search on Google for "financial modelling in Python" show more than 67.000 results.
@@ -61,7 +62,7 @@ Python is sin duda es más facil que Excel y VBA. Curva de aprendizaje muy agrad
 
 Consulta los tutoriales para instalar Python y un mainframe (Aptana Studio 3) en diferentes sistemas operaciones
   
-* [Quick Start](#quick-start)
+Quick Start
 
 The name of the formulas follow the International sport Notation always 
 are easlly guessable.
@@ -79,9 +80,8 @@ x =
 n =
 Mortality Tables
 
-.. _my-reference-label:
 
-==============
+
 Potential uses
 ==============
 Python como herramienta para elaborar los report a los organismos reguladores (formato de salida xml, excel, etc...)
@@ -103,7 +103,6 @@ Usos potenciales
 - calibración de hipótesis
 - el modelo interno no sólo es software, sino un procedimiento interno y nos skills
 
-===========================================
 Solvency II and sport Industrialization
 ===========================================
 For european actuaries, Solvency II open a big oportunity (BEL, SCR and
@@ -138,3 +137,4 @@ Supondrá un cambio en la forma de gestionar nuestro negocio modificando aspecto
 Su entrada en vigor se convertirá en un instrumento estratégico de las compañías, lo que tendrá consecuencias para las organizaciones de las empresas
 
 La utilización de un modelo interno permitirá una reducción de los costes de capital, en comparación con el modelo estándar.
+
